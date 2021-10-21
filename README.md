@@ -5,10 +5,15 @@ Diabetes is an illness caused because of high glucose level in a human body. Dia
 # ALGORITHMS
 
 1.Logistic Regression
+
 2.Support Vector Machine
+
 3.KNN
+
 4.Random Forest
+
 5.Naive Bayes
+
 6.Gradient Boosting
 
 # RESULTS
